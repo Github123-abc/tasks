@@ -11,11 +11,10 @@ installation of prometheus and graffana
 
 
 2 - apache 
-2 - nginx 
+2 - nginx       ---  - accessing  2 loadbalancers
 2 - tomcat
 
 
 20-1-2020
 ----------
-in kubernetes deployment one application
-
+in kubernetes deployment one application in progress
